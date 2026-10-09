@@ -6,4 +6,4 @@ For the coding I already created a bunch of games on scratch and I've been learn
 
 Finally, my goals for my game development class is to improve my coding skills in python start learning java, learn with by human perspective and not only online instructions. I would also like to start and even become able to create an simple game in python or java.
 
-I finally created my first game on pico-8, here is the link to the web-site page: Lucp22.github.io/luca_game1/index.html 
+I finally created my first game on pico-8, here is the link to the web-site page: [Meteor Fall Survival](Lucp22.github.io/luca_game1/index.html)
